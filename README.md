@@ -1,2 +1,3 @@
 # hello-world
-First try ;)
+First try! ;)
+Oh no, it can be better
